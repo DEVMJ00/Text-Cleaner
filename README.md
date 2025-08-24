@@ -3,6 +3,11 @@
 Text-Cleaner est un petit outil graphique en PowerShell pour nettoyer les textes contenant des caractères invisibles ou spéciaux (espaces insécables, zero-width space, retours de ligne cachés, etc.).  
 Ces caractères sont souvent insérés (volontairement ou non) dans des textes issus d'une génération par IA. 
 Il permet de nettoyer le texte et d’afficher le nombre de caractères supprimés, avec la possibilité de copier le résultat dans le presse-papier.
+<p align="center">
+  <img width="702" height="579" alt="image" src="https://github.com/user-attachments/assets/fc7dd681-3eb4-424a-bc05-e0dbca9c8a2d" />  
+</p>
+
+
 
 ---
 
